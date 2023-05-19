@@ -1,0 +1,6 @@
+replicaCount: 2
+image:
+  repository: 640623009868.dkr.ecr.ap-south-1.amazonaws.com/app-image
+  tag: beta
+service:
+  port: 8080
